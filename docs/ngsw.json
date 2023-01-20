@@ -1,0 +1,139 @@
+{
+  "configVersion": 1,
+  "timestamp": 1674255541747,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.ec2f4a7665aad4d2.js",
+        "/manifest.webmanifest",
+        "/polyfills.7076518a9af696c7.js",
+        "/runtime.71c359ab2b6e7ee9.js",
+        "/styles.1cd49601d59afa8d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/pilot.png",
+        "/assets/img/add.svg",
+        "/assets/img/add_circle.svg",
+        "/assets/img/bars-solid.svg",
+        "/assets/img/book.svg",
+        "/assets/img/content_copy.svg",
+        "/assets/img/content_paste.svg",
+        "/assets/img/day.svg",
+        "/assets/img/delete.svg",
+        "/assets/img/flight.svg",
+        "/assets/img/land.svg",
+        "/assets/img/list.svg",
+        "/assets/img/night.svg",
+        "/assets/img/reset.svg",
+        "/assets/img/skip_next.svg",
+        "/assets/img/skip_previous.svg",
+        "/assets/img/speed.svg",
+        "/assets/img/takeoff.svg",
+        "/assets/img/weight.svg",
+        "/assets/js/pdf.js",
+        "/assets/js/pdf.js.map",
+        "/assets/js/pdf.min.js",
+        "/assets/js/pdf.sandbox.js",
+        "/assets/js/pdf.sandbox.js.map",
+        "/assets/js/pdf.sandbox.min.js",
+        "/assets/js/pdf.worker.entry.js",
+        "/assets/js/pdf.worker.js",
+        "/assets/js/pdf.worker.js.map",
+        "/assets/js/pdf.worker.min.js"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "89dbfffe808de42b57739fcb1deeb1a8bf4e637f",
+    "/assets/icons/icon-144x144.png": "1d17b85394a0ca2a66866c813d6f920bb36bb97d",
+    "/assets/icons/icon-152x152.png": "d54a40de3bd0d2cc4e9e74c87b7331ccf3700bd4",
+    "/assets/icons/icon-192x192.png": "b40af1d744d6a484e067e2fc8a787999e6256b5d",
+    "/assets/icons/icon-384x384.png": "f1bbcba1735e3a9d58df0d60a5c704a96f83b555",
+    "/assets/icons/icon-512x512.png": "3ff34f410c1fed016ee32acf2aa8e1d703f3d311",
+    "/assets/icons/icon-72x72.png": "da9bed6089f2956ec5d2e243e079a9be5870514d",
+    "/assets/icons/icon-96x96.png": "467fcb4d356896dc2ffb0b42b1a5347dfd9bc16c",
+    "/assets/icons/pilot.png": "651d0e56ef5505336d58039d0af18f44e9dc3b3f",
+    "/assets/img/add.svg": "11995169007069a036e8ff5b20176954fe56d26c",
+    "/assets/img/add_circle.svg": "b30496f655ddc29029ab7480e88148e0d58e16ad",
+    "/assets/img/bars-solid.svg": "67fbd9e03630cbfc91c9aea8be7d33c9c255986b",
+    "/assets/img/book.svg": "e740f59dbfe44d016edc2c63f15c2367e94dabb4",
+    "/assets/img/content_copy.svg": "2058e8642ca3bdc4b1522d09b930e3ff6c88ada4",
+    "/assets/img/content_paste.svg": "11c694ebb4e844c0f4a6f9ad6b10870a27556cee",
+    "/assets/img/day.svg": "acbff83d00c831f842e06d07023bc2e02f97eada",
+    "/assets/img/delete.svg": "c57b91f6930ab0b10aa8cd73705e98f3ee08ab69",
+    "/assets/img/flight.svg": "61bce105a2accbf4b6169b132ce3911e6ac10ded",
+    "/assets/img/land.svg": "05703da45bc2f7cbe2ce77a9753900522b592f08",
+    "/assets/img/list.svg": "f3188321056ff8f454612fd92d7437d5d4cada5f",
+    "/assets/img/night.svg": "8768fad0f4022c8357fbec919957cfbbd8b0a343",
+    "/assets/img/reset.svg": "ffd78fbcf0f9b344e6489208a412d95994cd5ef2",
+    "/assets/img/skip_next.svg": "5195a5693e69a1d7959281ba250f9e97e957258f",
+    "/assets/img/skip_previous.svg": "7b52f71574ebf5493da85eafd5793215d9352f51",
+    "/assets/img/speed.svg": "5bc6721fdc5034cf6711bc561b7b6e29326cff6c",
+    "/assets/img/takeoff.svg": "8e7a53a4ac157ca88224a4fe993c228b3fa33ca3",
+    "/assets/img/weight.svg": "f550cd2573dc271d84e144172b28bff0f857bbce",
+    "/assets/js/pdf.js": "77072fb3e94b3549cb061aade17244d84cda6165",
+    "/assets/js/pdf.js.map": "d8d25188f3eccbde298e98c7a4db3af33f471e7b",
+    "/assets/js/pdf.min.js": "bf059ae9162d978bc812f0769497c01cd07e5f74",
+    "/assets/js/pdf.sandbox.js": "bd83e10ff607fc57dd97bc59d0ad4f847eee2cd8",
+    "/assets/js/pdf.sandbox.js.map": "2cd843a7a98e4de278002adc621b47589987c56c",
+    "/assets/js/pdf.sandbox.min.js": "f5a708c890549cfa4e68bfdb2e8760f099db947d",
+    "/assets/js/pdf.worker.entry.js": "4281a356ca28c659f06253fc629d99ac34744210",
+    "/assets/js/pdf.worker.js": "17b5aa8dad5e44ea097bf750bb700804ea487fb3",
+    "/assets/js/pdf.worker.js.map": "e38da7ce86d05d4068f4c1ebf59ebe6d9b25f880",
+    "/assets/js/pdf.worker.min.js": "f4bd88c4ec12725ebc546666668e322924985a61",
+    "/favicon.ico": "bfbb080c429e9378d25dbe75f80065cca3dc8bde",
+    "/index.html": "0590e853e5cd88750d5b826725eb78bed422befc",
+    "/main.ec2f4a7665aad4d2.js": "66e90b27f98bcbec26a74b6269a7624150a6755d",
+    "/manifest.webmanifest": "fb432621475236da96d9ed671edeac4374b7c330",
+    "/polyfills.7076518a9af696c7.js": "83655a6167b66fc35ed9612681459379f3969f2f",
+    "/runtime.71c359ab2b6e7ee9.js": "08e5339830075b575709d7fd30803ec59c7df848",
+    "/styles.1cd49601d59afa8d.css": "00761d2c4a7da499c70eacba90f1e24fc8ac8e9b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
