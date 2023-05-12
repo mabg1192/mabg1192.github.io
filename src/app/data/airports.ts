@@ -29790,7 +29790,7 @@ export const airports: Airport[] = [
       elevation: 472
     },
     {
-      icao: "OKBK",
+      icao: "OKKK", //updated
       iata: "KWI",
       country: "KW",
       city: "Kuwait City",
@@ -42520,7 +42520,7 @@ export const airports: Airport[] = [
       elevation: 12
     },
     {
-      icao: "VGZR",
+      icao: "VGHS", //updated
       iata: "DAC",
       country: "BD",
       city: "Dhaka",
